@@ -1,7 +1,7 @@
 
 # The Office Quiz
 
-Description : Its small quiz developed using Node JS for all THE MIRZAPUR fans out there! Are you an ULTIMATE MIRZAPUR FAN? Lets check! 
+Description : Its small quiz developed using Node JS for all THE MIRZAPUR fans out there! Are you an ULTIMATE MIRZAPUR FAN? Lets check!🤩
 
 How it works?
 * There are 5 question in the quiz.
